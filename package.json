@@ -1,0 +1,15 @@
+{
+  "name": "coffeetimeServ",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "btoa": "^1.1.2",
+    "debug": "~2.2.0",
+    "express": "~4.13.1",
+    "node-opensignal-api": "0.0.1",
+    "request": "^2.69.0"
+  }
+}
